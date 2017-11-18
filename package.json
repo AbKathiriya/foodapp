@@ -4,6 +4,7 @@
   "description": "MERN Starter",
   "main": "index.js",
   "scripts": {
+    "compile": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -11,7 +12,7 @@
     "url": "git+https://github.com/AbKathiriya/foodapp.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Akash Kathiriya",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AbKathiriya/foodapp/issues"
