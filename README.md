@@ -2,4 +2,9 @@ MERN Starter
 
 ---
 
-Coming soon!!
+Setup
+---
+ 
+```
+npm install
+```
