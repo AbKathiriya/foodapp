@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/AbKathiriya/foodapp/issues"
   },
-  "homepage": "https://github.com/AbKathiriya/foodapp#readme"
+  "homepage": "https://github.com/AbKathiriya/foodapp#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1"
+  }
 }
